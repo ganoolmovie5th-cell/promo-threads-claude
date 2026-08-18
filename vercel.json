@@ -1,5 +1,10 @@
 {
   "buildCommand": "",
   "outputDirectory": "public",
-  "framework": null
+  "framework": null,
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/rtox", "destination": "/", "permanent": true },
+    { "source": "/rtox/", "destination": "/", "permanent": true }
+  ]
 }
