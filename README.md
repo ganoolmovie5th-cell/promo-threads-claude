@@ -1,31 +1,41 @@
 # PromoIndo
 
-Kumpulan promo, kode voucher, dan cashback Indonesia. Update otomatis setiap hari dari Threads.
+Kumpulan promo, kode voucher, dan cashback Indonesia. Update otomatis setiap hari dari 21 akun Threads.
 
-## Stack
+**Tech Stack:** HTML · CSS · JavaScript · Python (scraper) · GitHub Actions · Vercel
 
-- Frontend: Static HTML/CSS/JS (deploy Vercel)
-- Scraper: Python (GitHub Actions, daily cron)
-- Data: JSON files in `public/data/`
+## Features
 
-## How it works
+- Agregasi promo dari 21 akun Threads
+- Update otomatis harian (08:00 WIB via GitHub Actions)
+- Frontend statis (tanpa build step)
+- Auto-deploy ke Vercel on push
 
-1. GitHub Actions runs `scripts/scraper.py` daily at 08:00 WIB
-2. Scraper fetches promo posts from 21 Threads accounts
-3. Data saved to `public/data/promos.json`
-4. Vercel auto-deploys on push
-
-## Local dev
+## Getting Started
 
 ```bash
-python scripts/scraper.py  # Run scraper manually
+# Jalankan scraper manual
+python scripts/scraper.py
+
+# Serve frontend
+cd public && python -m http.server 3000
 ```
 
-Serve frontend:
-```bash
-cd public && python -m http.server 3000
+## Project Structure
+
+```
+scripts/
+  scraper.py          → Fetch promo dari 21 akun Threads
+public/
+  index.html          → Frontend
+  data/promos.json    → Data promo (auto-generated)
+.github/workflows/    → Daily scraper cron
 ```
 
 ## Deploy
 
 Connected to Vercel. Auto-deploy on push to main.
+
+## License
+
+MIT

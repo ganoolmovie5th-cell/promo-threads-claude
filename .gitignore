@@ -3,3 +3,7 @@ __pycache__/
 .env
 .vercel
 node_modules/
+
+# AI IDE config
+.kiro/
+.claude/
