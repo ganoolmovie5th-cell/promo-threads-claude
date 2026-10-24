@@ -1,28 +1,6 @@
 [
   {
-    "id": "infopromo.jkt_58163",
-    "source": "@infopromo.jkt",
-    "source_url": "https://www.threads.net/@infopromo.jkt",
-    "text": "One stop account to know all promotions around you.\nTag us to get featured or promote here for business inquiries. #infopromojkt",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:18:11.078261+00:00"
-  },
-  {
-    "id": "infopromo.jkt_61965",
-    "source": "@infopromo.jkt",
-    "source_url": "https://www.threads.net/@infopromo.jkt",
-    "text": "Login untuk melihat lebih banyak dari infopromo.jkt.",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:18:11.078217+00:00"
-  },
-  {
-    "id": "infopromo.jkt_57159",
+    "id": "infopromo.jkt_4791",
     "source": "@infopromo.jkt",
     "source_url": "https://www.threads.net/@infopromo.jkt",
     "text": "Kuy follow \n@infopromo.jkt\n buat yg gak mau ketinggalan promo area Jakarta.",
@@ -30,10 +8,32 @@
     "discount": null,
     "code": null,
     "valid_until": null,
-    "scraped_at": "2026-10-24T03:18:11.078176+00:00"
+    "scraped_at": "2026-10-24T10:30:54.803250+00:00"
   },
   {
-    "id": "traveloka_52878",
+    "id": "infopromo.jkt_6836",
+    "source": "@infopromo.jkt",
+    "source_url": "https://www.threads.net/@infopromo.jkt",
+    "text": "Login untuk melihat lebih banyak dari infopromo.jkt.",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:30:54.803217+00:00"
+  },
+  {
+    "id": "infopromo.jkt_11307",
+    "source": "@infopromo.jkt",
+    "source_url": "https://www.threads.net/@infopromo.jkt",
+    "text": "One stop account to know all promotions around you.\nTag us to get featured or promote here for business inquiries. #infopromojkt",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:30:54.803180+00:00"
+  },
+  {
+    "id": "traveloka_65997",
     "source": "@traveloka",
     "source_url": "https://www.threads.net/@traveloka",
     "text": "m.traveloka.com/en-ph/promotion",
@@ -41,10 +41,21 @@
     "discount": null,
     "code": null,
     "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:51.412471+00:00"
+    "scraped_at": "2026-10-24T10:27:45.036676+00:00"
   },
   {
-    "id": "shopeefood_id_87005",
+    "id": "shopeefood_id_95764",
+    "source": "@shopeefood_id",
+    "source_url": "https://www.threads.net/@shopeefood_id",
+    "text": "2. Masukin kode voucher sakti: WARGAWARGISFOOD",
+    "category": "makanan",
+    "discount": null,
+    "code": "VOUCHER",
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:27:28.482130+00:00"
+  },
+  {
+    "id": "shopeefood_id_56428",
     "source": "@shopeefood_id",
     "source_url": "https://www.threads.net/@shopeefood_id",
     "text": "1. Pilih kuliner favorit kamu di ShopeeFood, trus klik kolom Voucher pas mau checkout.",
@@ -52,10 +63,10 @@
     "discount": null,
     "code": null,
     "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:34.178567+00:00"
+    "scraped_at": "2026-10-24T10:27:28.482106+00:00"
   },
   {
-    "id": "shopeefood_id_77307",
+    "id": "shopeefood_id_11814",
     "source": "@shopeefood_id",
     "source_url": "https://www.threads.net/@shopeefood_id",
     "text": "Warga wargi Synchronize, jangan lupa klaim voucher yang ada di kipas yang kalian dapet sebelum tanggal 31 Oktober yaaa!",
@@ -63,7 +74,381 @@
     "discount": null,
     "code": "YANG",
     "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:34.178538+00:00"
+    "scraped_at": "2026-10-24T10:27:28.482053+00:00"
+  },
+  {
+    "id": "gofoodindonesia_53342",
+    "source": "@gofoodindonesia",
+    "source_url": "https://www.threads.net/@gofoodindonesia",
+    "text": "Gak usah khawatir, karena beli jajanan sampe makanan favorit kamu pake GoFood ada banyak pilihan promonya.\nJadi kita bisa lebih sering jajan bareng setiap hari deh ~ Cek promonya di sini 👉🏻 gjk.id/Banti…",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:27:09.480752+00:00"
+  },
+  {
+    "id": "gofoodindonesia_86646",
+    "source": "@gofoodindonesia",
+    "source_url": "https://www.threads.net/@gofoodindonesia",
+    "text": "Hari demi hari sampai ke gajian berikutnya akan ku jalani dengan tetap makan enak dengan beragam promo spesial yang ada di GoFood! Yuk, cek promonya di sini 👉🏻 gjk.id/Banti…",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:27:09.480678+00:00"
+  },
+  {
+    "id": "gofoodindonesia_62267",
+    "source": "@gofoodindonesia",
+    "source_url": "https://www.threads.net/@gofoodindonesia",
+    "text": "Biar makin praktis, langsung beli dan ambil jajanan favoritmu pakai GoFood Pickup ✨ Buat kamu yang ada di sekitar Blok M tapi gak sempat mampir, tenang aja! Kamu tetap bisa menikmati kuliner pilihan ini pakai GoFood dan nikmati promo menariknya ❤️",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:27:09.480615+00:00"
+  },
+  {
+    "id": "gofoodindonesia_56067",
+    "source": "@gofoodindonesia",
+    "source_url": "https://www.threads.net/@gofoodindonesia",
+    "text": "☕️ Kopi Makmur Jaya - \n@makmurjayacoffee\n\n🍖 Iga Bakar Si Jangkung - \n@igabakarsijangkung\n\n🥧 Kartika Sari - kartikasaribakery\n🥟 Batagor Kahuripan - \n@batagorkahuripan\n\n🧁 Sincere Cafe - \n@sincerehomemade",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:27:09.480506+00:00"
+  },
+  {
+    "id": "grabfoodid_51507",
+    "source": "@grabfoodid",
+    "source_url": "https://www.threads.net/@grabfoodid",
+    "text": "Mohon mangap 🙏 Sekarang semua bisa dapet diskonnya! 🤤 Nikmati Diskon Puas MAX s.d. 35% + Ongkir Termurah di ribuan resto. Diskonnya buat semua, bikin kamu auto kenyang & happy. Siap-siap mangap selebar-lebarnya! 🍕🍗",
+    "category": "makanan",
+    "discount": "35%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:26:50.974671+00:00"
+  },
+  {
+    "id": "grabfoodid_58931",
+    "source": "@grabfoodid",
+    "source_url": "https://www.threads.net/@grabfoodid",
+    "text": "Namanya hidup udah banyak pilihan😝  Jangan bingung pilah-pilih lagi, karena dengan GrabFood kamu tinggal order dan nikmatin Diskon Puas s.d. 50%. Lebih PUAS buat member GrabUnlimited! \nBuruan pesan sekarang!",
+    "category": "makanan",
+    "discount": "50%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:26:50.974610+00:00"
+  },
+  {
+    "id": "grabfoodid_79951",
+    "source": "@grabfoodid",
+    "source_url": "https://www.threads.net/@grabfoodid",
+    "text": "Udah crispy di luar, juicy di dalam, hematnya juga maksimal. Gak order sekarang? Rugi banget, lho! 🫢",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:26:50.974543+00:00"
+  },
+  {
+    "id": "grabfoodid_51240",
+    "source": "@grabfoodid",
+    "source_url": "https://www.threads.net/@grabfoodid",
+    "text": "PROMO GILA-GILAAN DARI UNO CHICKEN! 🤯🍗",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:26:50.974500+00:00"
+  },
+  {
+    "id": "grabfoodid_65921",
+    "source": "@grabfoodid",
+    "source_url": "https://www.threads.net/@grabfoodid",
+    "text": "Super Brand Week GrabFood datang 11–17 Agustus 2025, bawa promo B1G1 Hemat 1 Medium + FREE Cheese Sauce, dan diskon hingga 55%!",
+    "category": "makanan",
+    "discount": "55%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:26:50.974450+00:00"
+  },
+  {
+    "id": "bukalapak_5538",
+    "source": "@bukalapak",
+    "source_url": "https://www.threads.net/@bukalapak",
+    "text": "bukalapak.com/promo-campaign/tajir",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:25:37.186602+00:00"
+  },
+  {
+    "id": "lazada_id_58772",
+    "source": "@lazada_id",
+    "source_url": "https://www.threads.net/@lazada_id",
+    "text": "Yuk yuk yang masih mau tangkap promo Lazada langsung check lagi buanyak banget promonya gaes 🫶🏻🛍️🛍️🛍️",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:47.570699+00:00"
+  },
+  {
+    "id": "lazada_id_42254",
+    "source": "@lazada_id",
+    "source_url": "https://www.threads.net/@lazada_id",
+    "text": "POV: Padel plan kamu aman karena kita traktir main padel di Social Padel House & dapet Voucher Belanja 500rb 🧘‍♀️🎾👟",
+    "category": "belanja",
+    "discount": null,
+    "code": "BELANJA",
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:47.570640+00:00"
+  },
+  {
+    "id": "shopee_id_1656",
+    "source": "@shopee_id",
+    "source_url": "https://www.threads.net/@shopee_id",
+    "text": "iPhone 18 Pro segera hadir di Shopee Mall! 🧡\nCatat tanggalnya, PRE-ORDER mulai 7 Oktober jam 09.00 WIB.\nMega New Arrival, 100% ORI!",
+    "category": "belanja",
+    "discount": "100%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:32.215402+00:00"
+  },
+  {
+    "id": "shopee_id_10736",
+    "source": "@shopee_id",
+    "source_url": "https://www.threads.net/@shopee_id",
+    "text": "Promo 9.9 | Shopee 9.9 Super Shopping Day",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:32.215340+00:00"
+  },
+  {
+    "id": "shopee_id_30415",
+    "source": "@shopee_id",
+    "source_url": "https://www.threads.net/@shopee_id",
+    "text": "Ngomong-ngomong batik, Shopee lagi ada Festival Batik Nusantara! Ada 100+ Batik Pilihan yang dikurasi, dari batik klasik sampai motif yang lebih kekinian. Harganya mulai 50RB, plus Diskon s.d. 50% 🤩",
+    "category": "belanja",
+    "discount": "50%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:32.215311+00:00"
+  },
+  {
+    "id": "shopee_id_78891",
+    "source": "@shopee_id",
+    "source_url": "https://www.threads.net/@shopee_id",
+    "text": "Beli Semua di Shopee, Lebih Hemat Lebih Cepat!\n#ShopeeID",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:32.215230+00:00"
+  },
+  {
+    "id": "tokopedia_92412",
+    "source": "@tokopedia",
+    "source_url": "https://www.threads.net/@tokopedia",
+    "text": "Selain belanja, kamu juga bisa ikutin banyak aktivitas menarik di For You Beauty weekend ini! Kapan lagi belanja banyak bisa dapetin Dyson Airwrap gratisssss🤩",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:15.246550+00:00"
+  },
+  {
+    "id": "tokopedia_33559",
+    "source": "@tokopedia",
+    "source_url": "https://www.threads.net/@tokopedia",
+    "text": "Karnaaa banyak brand keche badayyy, diskonnya juga s.d 90% loh shayyy🥰",
+    "category": "belanja",
+    "discount": "90%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:15.246492+00:00"
+  },
+  {
+    "id": "tokopedia_94946",
+    "source": "@tokopedia",
+    "source_url": "https://www.threads.net/@tokopedia",
+    "text": "🗓️6-8 September 2024\n📍Laguna Atrium Central Park, Lt. G\n💸Semua produk diskon s.d 90%",
+    "category": "belanja",
+    "discount": "90%",
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:15.246435+00:00"
+  },
+  {
+    "id": "tokopedia_64574",
+    "source": "@tokopedia",
+    "source_url": "https://www.threads.net/@tokopedia",
+    "text": "Eits, bukan pantun! Ini panduan seru-seruan supaya kamu bisa nikmatin semua performance, aktivitas seru, dan flash sale. Save dan share temen postingan ini yaa! Sampai jumpa💚",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:24:15.246382+00:00"
+  },
+  {
+    "id": "grabid_40944",
+    "source": "@grabid",
+    "source_url": "https://www.threads.net/@grabid",
+    "text": "Kalo pake GrabUnlimited, jadi lebih hemat perjuangin si doi 😋",
+    "category": "transport",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:23:58.741919+00:00"
+  },
+  {
+    "id": "grabid_1218",
+    "source": "@grabid",
+    "source_url": "https://www.threads.net/@grabid",
+    "text": "Soalnya, kalo jadi member hematnya gak kelar-kelar. Mulai dari pesen GrabBike, GrabCar, sampe GrabFood juga jadi lebih hemat.",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:23:58.741859+00:00"
+  },
+  {
+    "id": "shopeepay_id_58420",
+    "source": "@shopeepay_id",
+    "source_url": "https://www.threads.net/@shopeepay_id",
+    "text": "Kamis Berkah ini namanya 🥳 coba absen di bawah siapa aja nih yang berhasil dapet cashback 100k?!",
+    "category": "keuangan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:21:17.294383+00:00"
+  },
+  {
+    "id": "shopeepay_id_51538",
+    "source": "@shopeepay_id",
+    "source_url": "https://www.threads.net/@shopeepay_id",
+    "text": "Belanja, jajan dan nonton di berbagai merchant pilihan, semuanya bisa dapat diskon s.d. 150RB? 😱",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:21:17.294329+00:00"
+  },
+  {
+    "id": "gopayindonesia_20006",
+    "source": "@gopayindonesia",
+    "source_url": "https://www.threads.net/@gopayindonesia",
+    "text": "coba cek akun GoPay kalian, dapet promo ini juga gakk",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:20:30.178870+00:00"
+  },
+  {
+    "id": "hibank.id_359",
+    "source": "@hibank.id",
+    "source_url": "https://www.threads.net/@hibank.id",
+    "text": "Jangan pernah membagikan PIN, password, atau kode OTP kepada siapa pun, termasuk pihak yang mengaku sebagai perwakilan hibank.",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:20:14.550778+00:00"
+  },
+  {
+    "id": "bankneocommerce_71580",
+    "source": "@bankneocommerce",
+    "source_url": "https://www.threads.net/@bankneocommerce",
+    "text": "neobank｜Official Account of Bank Neo Commerce | Berizin dan diawasi oleh Otoritas Jasa Keuangan | ☎️: 1500 190",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:17:24.714733+00:00"
+  },
+  {
+    "id": "bankneocommerce_38291",
+    "source": "@bankneocommerce",
+    "source_url": "https://www.threads.net/@bankneocommerce",
+    "text": "Malam-malam laper, yang satset ya ke \n@kfcindonesia\n pakai QRIS neobank langsung dapat diskon 25rb loh. Ah, puas...\n_______________\nInformasi mengenai promo & fitur QRIS neobank, kunjungi\nPromo QRIS hematpay: s.id/promo…\nFitur QRIS: s.id/infoq…",
+    "category": "makanan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:17:24.714680+00:00"
+  },
+  {
+    "id": "bankneocommerce_1715",
+    "source": "@bankneocommerce",
+    "source_url": "https://www.threads.net/@bankneocommerce",
+    "text": "———————————————\nTotal kuota: 44.500 selama periode promo",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:17:24.714606+00:00"
+  },
+  {
+    "id": "bankneocommerce_71306",
+    "source": "@bankneocommerce",
+    "source_url": "https://www.threads.net/@bankneocommerce",
+    "text": "Udah gajian, dapet diskon, mantap sekali Jumat inii. Happy weekend warga 😻😽",
+    "category": "belanja",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:17:24.714569+00:00"
+  },
+  {
+    "id": "bankneocommerce_41866",
+    "source": "@bankneocommerce",
+    "source_url": "https://www.threads.net/@bankneocommerce",
+    "text": "Info promo klik s.id/neoqr… dan jika ingin transaksi QRIS, klik s.id/igneo…",
+    "category": "lainnya",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:17:24.714520+00:00"
+  },
+  {
+    "id": "bankbri_id_28889",
+    "source": "@bankbri_id",
+    "source_url": "https://www.threads.net/@bankbri_id",
+    "text": "Dapatkan diskon 20% untuk pengalaman menginap di Banyan Group dengan BRI Debit Virtual. Masukkan kode promo VISABT saat pemesanan kamar di situs Banyan Group.",
+    "category": "belanja",
+    "discount": "20%",
+    "code": "PROMO",
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:07:38.632013+00:00"
+  },
+  {
+    "id": "bankbri_id_28342",
+    "source": "@bankbri_id",
+    "source_url": "https://www.threads.net/@bankbri_id",
+    "text": "#PromoMerchantBRI\n#BRImo\n#BRIDebit\n#BRIKartuKredit\n#MelayaniSepenuhHati",
+    "category": "keuangan",
+    "discount": null,
+    "code": null,
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:07:38.631949+00:00"
+  },
+  {
+    "id": "bankbri_id_34472",
+    "source": "@bankbri_id",
+    "source_url": "https://www.threads.net/@bankbri_id",
+    "text": "Nikmati berbagai penawaran istimewa KPR BRI, mulai dari bunga 0,31% fixed 1 tahun, Diskon asuransi jiwa hingga 20%, dapatkan voucher belanja hingga Rp10 juta, dan bebas biaya provisi dan administrasi",
+    "category": "belanja",
+    "discount": "31%",
+    "code": "BELANJA",
+    "valid_until": null,
+    "scraped_at": "2026-10-24T10:07:38.631887+00:00"
   },
   {
     "id": "shopeefood_id_67291",
@@ -77,17 +462,6 @@
     "scraped_at": "2026-10-24T03:14:34.178499+00:00"
   },
   {
-    "id": "shopeefood_id_47764",
-    "source": "@shopeefood_id",
-    "source_url": "https://www.threads.net/@shopeefood_id",
-    "text": "2. Masukin kode voucher sakti: WARGAWARGISFOOD",
-    "category": "makanan",
-    "discount": null,
-    "code": "VOUCHER",
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:34.178460+00:00"
-  },
-  {
     "id": "shopeefood_id_9833",
     "source": "@shopeefood_id",
     "source_url": "https://www.threads.net/@shopeefood_id",
@@ -97,336 +471,6 @@
     "code": null,
     "valid_until": null,
     "scraped_at": "2026-10-24T03:14:34.178405+00:00"
-  },
-  {
-    "id": "gofoodindonesia_87095",
-    "source": "@gofoodindonesia",
-    "source_url": "https://www.threads.net/@gofoodindonesia",
-    "text": "Biar makin praktis, langsung beli dan ambil jajanan favoritmu pakai GoFood Pickup ✨ Buat kamu yang ada di sekitar Blok M tapi gak sempat mampir, tenang aja! Kamu tetap bisa menikmati kuliner pilihan ini pakai GoFood dan nikmati promo menariknya ❤️",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:15.738118+00:00"
-  },
-  {
-    "id": "gofoodindonesia_6863",
-    "source": "@gofoodindonesia",
-    "source_url": "https://www.threads.net/@gofoodindonesia",
-    "text": "☕️ Kopi Makmur Jaya - \n@makmurjayacoffee\n\n🍖 Iga Bakar Si Jangkung - \n@igabakarsijangkung\n\n🥧 Kartika Sari - kartikasaribakery\n🥟 Batagor Kahuripan - \n@batagorkahuripan\n\n🧁 Sincere Cafe - \n@sincerehomemade",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:15.738028+00:00"
-  },
-  {
-    "id": "gofoodindonesia_34252",
-    "source": "@gofoodindonesia",
-    "source_url": "https://www.threads.net/@gofoodindonesia",
-    "text": "Hari demi hari sampai ke gajian berikutnya akan ku jalani dengan tetap makan enak dengan beragam promo spesial yang ada di GoFood! Yuk, cek promonya di sini 👉🏻 gjk.id/Banti…",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:15.737949+00:00"
-  },
-  {
-    "id": "gofoodindonesia_37956",
-    "source": "@gofoodindonesia",
-    "source_url": "https://www.threads.net/@gofoodindonesia",
-    "text": "Gak usah khawatir, karena beli jajanan sampe makanan favorit kamu pake GoFood ada banyak pilihan promonya.\nJadi kita bisa lebih sering jajan bareng setiap hari deh ~ Cek promonya di sini 👉🏻 gjk.id/Banti…",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:14:15.737867+00:00"
-  },
-  {
-    "id": "grabfoodid_35033",
-    "source": "@grabfoodid",
-    "source_url": "https://www.threads.net/@grabfoodid",
-    "text": "PROMO GILA-GILAAN DARI UNO CHICKEN! 🤯🍗",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:13:55.495881+00:00"
-  },
-  {
-    "id": "grabfoodid_92144",
-    "source": "@grabfoodid",
-    "source_url": "https://www.threads.net/@grabfoodid",
-    "text": "Super Brand Week GrabFood datang 11–17 Agustus 2025, bawa promo B1G1 Hemat 1 Medium + FREE Cheese Sauce, dan diskon hingga 55%!",
-    "category": "makanan",
-    "discount": "55%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:13:55.495853+00:00"
-  },
-  {
-    "id": "grabfoodid_20781",
-    "source": "@grabfoodid",
-    "source_url": "https://www.threads.net/@grabfoodid",
-    "text": "Mohon mangap 🙏 Sekarang semua bisa dapet diskonnya! 🤤 Nikmati Diskon Puas MAX s.d. 35% + Ongkir Termurah di ribuan resto. Diskonnya buat semua, bikin kamu auto kenyang & happy. Siap-siap mangap selebar-lebarnya! 🍕🍗",
-    "category": "makanan",
-    "discount": "35%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:13:55.495800+00:00"
-  },
-  {
-    "id": "grabfoodid_98826",
-    "source": "@grabfoodid",
-    "source_url": "https://www.threads.net/@grabfoodid",
-    "text": "Udah crispy di luar, juicy di dalam, hematnya juga maksimal. Gak order sekarang? Rugi banget, lho! 🫢",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:13:55.495730+00:00"
-  },
-  {
-    "id": "grabfoodid_16868",
-    "source": "@grabfoodid",
-    "source_url": "https://www.threads.net/@grabfoodid",
-    "text": "Namanya hidup udah banyak pilihan😝  Jangan bingung pilah-pilih lagi, karena dengan GrabFood kamu tinggal order dan nikmatin Diskon Puas s.d. 50%. Lebih PUAS buat member GrabUnlimited! \nBuruan pesan sekarang!",
-    "category": "makanan",
-    "discount": "50%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:13:55.495667+00:00"
-  },
-  {
-    "id": "bukalapak_52071",
-    "source": "@bukalapak",
-    "source_url": "https://www.threads.net/@bukalapak",
-    "text": "bukalapak.com/promo-campaign/tajir",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:12:38.598329+00:00"
-  },
-  {
-    "id": "lazada_id_98068",
-    "source": "@lazada_id",
-    "source_url": "https://www.threads.net/@lazada_id",
-    "text": "Yuk yuk yang masih mau tangkap promo Lazada langsung check lagi buanyak banget promonya gaes 🫶🏻🛍️🛍️🛍️",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:53.684516+00:00"
-  },
-  {
-    "id": "lazada_id_35123",
-    "source": "@lazada_id",
-    "source_url": "https://www.threads.net/@lazada_id",
-    "text": "POV: Padel plan kamu aman karena kita traktir main padel di Social Padel House & dapet Voucher Belanja 500rb 🧘‍♀️🎾👟",
-    "category": "belanja",
-    "discount": null,
-    "code": "BELANJA",
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:53.684464+00:00"
-  },
-  {
-    "id": "shopee_id_51481",
-    "source": "@shopee_id",
-    "source_url": "https://www.threads.net/@shopee_id",
-    "text": "Ngomong-ngomong batik, Shopee lagi ada Festival Batik Nusantara! Ada 100+ Batik Pilihan yang dikurasi, dari batik klasik sampai motif yang lebih kekinian. Harganya mulai 50RB, plus Diskon s.d. 50% 🤩",
-    "category": "belanja",
-    "discount": "50%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:35.165571+00:00"
-  },
-  {
-    "id": "shopee_id_27414",
-    "source": "@shopee_id",
-    "source_url": "https://www.threads.net/@shopee_id",
-    "text": "Beli Semua di Shopee, Lebih Hemat Lebih Cepat!\n#ShopeeID",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:35.165503+00:00"
-  },
-  {
-    "id": "shopee_id_71136",
-    "source": "@shopee_id",
-    "source_url": "https://www.threads.net/@shopee_id",
-    "text": "iPhone 18 Pro segera hadir di Shopee Mall! 🧡\nCatat tanggalnya, PRE-ORDER mulai 7 Oktober jam 09.00 WIB.\nMega New Arrival, 100% ORI!",
-    "category": "belanja",
-    "discount": "100%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:35.165436+00:00"
-  },
-  {
-    "id": "tokopedia_56973",
-    "source": "@tokopedia",
-    "source_url": "https://www.threads.net/@tokopedia",
-    "text": "Selain belanja, kamu juga bisa ikutin banyak aktivitas menarik di For You Beauty weekend ini! Kapan lagi belanja banyak bisa dapetin Dyson Airwrap gratisssss🤩",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:19.841892+00:00"
-  },
-  {
-    "id": "tokopedia_32550",
-    "source": "@tokopedia",
-    "source_url": "https://www.threads.net/@tokopedia",
-    "text": "Eits, bukan pantun! Ini panduan seru-seruan supaya kamu bisa nikmatin semua performance, aktivitas seru, dan flash sale. Save dan share temen postingan ini yaa! Sampai jumpa💚",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:19.841830+00:00"
-  },
-  {
-    "id": "tokopedia_93511",
-    "source": "@tokopedia",
-    "source_url": "https://www.threads.net/@tokopedia",
-    "text": "Karnaaa banyak brand keche badayyy, diskonnya juga s.d 90% loh shayyy🥰",
-    "category": "belanja",
-    "discount": "90%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:19.841766+00:00"
-  },
-  {
-    "id": "tokopedia_68896",
-    "source": "@tokopedia",
-    "source_url": "https://www.threads.net/@tokopedia",
-    "text": "🗓️6-8 September 2024\n📍Laguna Atrium Central Park, Lt. G\n💸Semua produk diskon s.d 90%",
-    "category": "belanja",
-    "discount": "90%",
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:19.841706+00:00"
-  },
-  {
-    "id": "grabid_30557",
-    "source": "@grabid",
-    "source_url": "https://www.threads.net/@grabid",
-    "text": "Soalnya, kalo jadi member hematnya gak kelar-kelar. Mulai dari pesen GrabBike, GrabCar, sampe GrabFood juga jadi lebih hemat.",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:01.939233+00:00"
-  },
-  {
-    "id": "grabid_61782",
-    "source": "@grabid",
-    "source_url": "https://www.threads.net/@grabid",
-    "text": "Kalo pake GrabUnlimited, jadi lebih hemat perjuangin si doi 😋",
-    "category": "transport",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:11:01.939178+00:00"
-  },
-  {
-    "id": "shopeepay_id_20882",
-    "source": "@shopeepay_id",
-    "source_url": "https://www.threads.net/@shopeepay_id",
-    "text": "Belanja, jajan dan nonton di berbagai merchant pilihan, semuanya bisa dapat diskon s.d. 150RB? 😱",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:08:19.745048+00:00"
-  },
-  {
-    "id": "shopeepay_id_10349",
-    "source": "@shopeepay_id",
-    "source_url": "https://www.threads.net/@shopeepay_id",
-    "text": "Kamis Berkah ini namanya 🥳 coba absen di bawah siapa aja nih yang berhasil dapet cashback 100k?!",
-    "category": "keuangan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:08:19.744989+00:00"
-  },
-  {
-    "id": "gopayindonesia_67144",
-    "source": "@gopayindonesia",
-    "source_url": "https://www.threads.net/@gopayindonesia",
-    "text": "coba cek akun GoPay kalian, dapet promo ini juga gakk",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:07:28.385450+00:00"
-  },
-  {
-    "id": "hibank.id_14946",
-    "source": "@hibank.id",
-    "source_url": "https://www.threads.net/@hibank.id",
-    "text": "Jangan pernah membagikan PIN, password, atau kode OTP kepada siapa pun, termasuk pihak yang mengaku sebagai perwakilan hibank.",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:07:12.618042+00:00"
-  },
-  {
-    "id": "bankneocommerce_38366",
-    "source": "@bankneocommerce",
-    "source_url": "https://www.threads.net/@bankneocommerce",
-    "text": "Udah gajian, dapet diskon, mantap sekali Jumat inii. Happy weekend warga 😻😽",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:04:29.069001+00:00"
-  },
-  {
-    "id": "bankneocommerce_58771",
-    "source": "@bankneocommerce",
-    "source_url": "https://www.threads.net/@bankneocommerce",
-    "text": "———————————————\nTotal kuota: 44.500 selama periode promo",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:04:29.068958+00:00"
-  },
-  {
-    "id": "bankneocommerce_55474",
-    "source": "@bankneocommerce",
-    "source_url": "https://www.threads.net/@bankneocommerce",
-    "text": "Malam-malam laper, yang satset ya ke \n@kfcindonesia\n pakai QRIS neobank langsung dapat diskon 25rb loh. Ah, puas...\n_______________\nInformasi mengenai promo & fitur QRIS neobank, kunjungi\nPromo QRIS hematpay: s.id/promo…\nFitur QRIS: s.id/infoq…",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:04:29.068929+00:00"
-  },
-  {
-    "id": "bankneocommerce_39950",
-    "source": "@bankneocommerce",
-    "source_url": "https://www.threads.net/@bankneocommerce",
-    "text": "Info promo klik s.id/neoqr… dan jika ingin transaksi QRIS, klik s.id/igneo…",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:04:29.068848+00:00"
-  },
-  {
-    "id": "bankneocommerce_55403",
-    "source": "@bankneocommerce",
-    "source_url": "https://www.threads.net/@bankneocommerce",
-    "text": "neobank｜Official Account of Bank Neo Commerce | Berizin dan diawasi oleh Otoritas Jasa Keuangan | ☎️: 1500 190",
-    "category": "lainnya",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T03:04:29.068796+00:00"
   },
   {
     "id": "bankbri_id_83612",
@@ -449,17 +493,6 @@
     "code": "RP100",
     "valid_until": null,
     "scraped_at": "2026-10-24T02:54:38.504577+00:00"
-  },
-  {
-    "id": "bankbri_id_3180",
-    "source": "@bankbri_id",
-    "source_url": "https://www.threads.net/@bankbri_id",
-    "text": "#PromoMerchantBRI\n#BRImo\n#BRIDebit\n#BRIKartuKredit\n#MelayaniSepenuhHati",
-    "category": "keuangan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-24T02:54:38.504542+00:00"
   },
   {
     "id": "bankbri_id_47327",
@@ -504,17 +537,6 @@
     "code": null,
     "valid_until": null,
     "scraped_at": "2026-10-24T02:54:38.504305+00:00"
-  },
-  {
-    "id": "shopee_id_65963",
-    "source": "@shopee_id",
-    "source_url": "https://www.threads.net/@shopee_id",
-    "text": "Promo 9.9 | Shopee 9.9 Super Shopping Day",
-    "category": "belanja",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-10-23T21:20:43.957422+00:00"
   },
   {
     "id": "bankbri_id_72396",
@@ -5476,27 +5498,5 @@
     "code": "GAME",
     "valid_until": null,
     "scraped_at": "2026-08-17T06:42:44.322603+00:00"
-  },
-  {
-    "id": "bankbri_id_44655",
-    "source": "@bankbri_id",
-    "source_url": "https://www.threads.net/@bankbri_id",
-    "text": "Yuk, jelajahi pesona Nusantara di Festiloka 2026 bareng BRI. Eksplor beragam karya, budaya, hingga kuliner Nusantara, dan dapatkan beragam promo spesial dari BRI.",
-    "category": "makanan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-08-17T06:42:44.322520+00:00"
-  },
-  {
-    "id": "bankbri_id_39112",
-    "source": "@bankbri_id",
-    "source_url": "https://www.threads.net/@bankbri_id",
-    "text": "Makin seru, nikmati juga berbagai promo dari BRImo, BRI Tabungan dan produk BRI lainnya selama festival berlangsung. Yuk datang ke Summarecon Mall Serpong tanggal 13 Agustus – 13 September 2026.",
-    "category": "keuangan",
-    "discount": null,
-    "code": null,
-    "valid_until": null,
-    "scraped_at": "2026-08-17T00:55:50.385206+00:00"
   }
 ]
